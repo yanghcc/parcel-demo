@@ -1,0 +1,16 @@
+{
+  "name": "tesseract",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "yhc",
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "^7.2.5",
+    "babel-preset-env": "^1.6.1",
+    "parcel": "^0.0.1",
+    "postcss-modules": "^1.1.0"
+  },
+  "devDependencies": {
+    "stylus": "^0.54.5"
+  }
+}
